@@ -19,13 +19,6 @@ This is a **Complete Quiz App in FLUTTER** using a lot of features such as
 
 And a lot more...
 
-  
-
-## Watch The Complete Tutorial Here
-
-### [In English](https://youtu.be/yHrpx4PoBzU)
-
-### [In Hindi](https://youtu.be/tJob-xdGLXE)
 
 
 ### Star It And Play With The Code
@@ -40,7 +33,7 @@ And a lot more...
 
 ![When A Button Is Clicked](./gitimages/btnclick.png "When A Button Is Clicked")
 
-![The Result Page](./gitimages/result.png "The Result Page")
+![The Result Page](.https://github.com/hasham827/QuizApp/blob/master/Screen%20Shots/checkanswer.png "The Result Page")
 
 
 # **Latest Commit** 
