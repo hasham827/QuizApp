@@ -6,11 +6,19 @@ This is a **Complete Quiz App in FLUTTER** using a lot of features such as
 
 * Multiple Screens
 
-* Timer (10 sec By Default)
+* Start With Splash Screen
 
+* Category Options ( Update Soon)
+
+*  Quiz Duration Timer (10 sec By Default)
+
+* Automaticaly move to Result After Time Complete.
+ 
 * Button Color Changes On Click
 
 * Result Page
+  '''Listtile
+  '''cards
 
 * Questions From JSON
 
