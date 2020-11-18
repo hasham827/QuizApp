@@ -25,16 +25,13 @@ And a lot more...
 
   
 
-## Here Are A Few Screenshots From The App
+## Screenshots
 
-![The Card Page](./gitimages/cards.png "The Card Page")
-
-![A Simple Quiz Page](./gitimages/quizpage.png "A Simple Quiz Page")
-
-![When A Button Is Clicked](./gitimages/btnclick.png "When A Button Is Clicked")
-
-![The Result Page](.https://github.com/hasham827/QuizApp/blob/master/Screen%20Shots/checkanswer.png "The Result Page")
-
+<p align="start">
+  <img width="200" height="370" src="https://github.com/hasham827/QuizApp/blob/master/Screen%20Shots/checkanswer.png">
+   <img width="200" height="370" src="https://github.com/hasham827/QuizApp/blob/master/Screen%20Shots/quizpage.png">
+ 
+</p>
 
 # **Latest Commit** 
 
